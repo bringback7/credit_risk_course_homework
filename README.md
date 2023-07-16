@@ -1,4 +1,7 @@
-# CreditRiskRepo_tmp
+# credit_risk_course_homework
+
+Pracovali jsme na tomto úkolu společně s dalšími lidmi v týmu: Lubor Zoufal, Petronela Černá, Filip Kocián, Karel Ziernwald
+
 
 
 
